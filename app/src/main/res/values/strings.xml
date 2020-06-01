@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question1title">Question 1</string>
+    <string name="question2title">Question 2</string>
+    <string name="question3title">Question 3</string>
+    <string name="question4title">Question 4</string>
+    <string name="question5title">Question 5</string>
+    <string name="question1">The domain name www.google.com was registered on:</string>
+    <string name="answer1997">1997</string>
+    <string name="answer1998">1998</string>
+    <string name="answer1999">1999</string>
+    <string name="question2">Which are some Google Products?</string>
+    <string name="answerGooglePixel">Google Pixel</string>
+    <string name="answerGoogleHome">Google Home</string>
+    <string name="answerIPhone">iPhone</string>
+    <string name="question3">The name \"Google\" originated from a misspelling of:</string>
+    <string name="question4">Google\'s informal corporate motto or slogan is?</string>
+    <string name="answerAlwaysFirst">\"Always First\"</string>
+    <string name="answerDontBeEvil">\"Don\'t Be Evil\"</string>
+    <string name="answerTurningThePage">\"Turning the page\"</string>
+    <string name="question5">Google was founded by Larry Page and who else?</string>
+    <string name="answerSteveJobs">Steve Jobs</string>
+    <string name="answerSergeyBrin">Sergey Brin</string>
+    <string name="answerBillGates">Bill Gates</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+</resources>
